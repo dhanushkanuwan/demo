@@ -1,1 +1,2 @@
-from develop branch conflict resolving
+from develop branch conflict resolvingConflicts from master branch
+test
